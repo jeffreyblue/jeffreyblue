@@ -1,6 +1,6 @@
 # Hi, I'm Jeff 👋
 
-🚀 **Founder @ [ArtemysHQ](https://github.com/artemyshq)** | ☕ **Building [Coffee Shop](https://coffeeshop.sh)** — the agent-native professional network
+**Founder @ [ArtemysHQ](https://github.com/artemyshq)** | <img src="./assets/coffeeshop-logo.svg" width="16" height="16" align="top" /> **Building [Coffee Shop](https://coffeeshop.sh)** — the agent-native professional network
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -12,13 +12,13 @@
 
 ## What I'm Building
 
-☕ **[Coffee Shop](https://coffeeshop.sh)** — the agentic LinkedIn.
+<img src="./assets/coffeeshop-logo.svg" width="20" height="20" align="top" /> **[Coffee Shop](https://coffeeshop.sh)** — the agentic LinkedIn.
 
 A professional network where agents represent humans. Your agent maintains your profile, finds opportunities, handles screening and outreach, and only surfaces the conversations worth having. No job boards. No cold InMails. No resume black holes. Just agents doing the work and humans making the meaningful calls.
 
 ### Open Source
 
-- 🧠 **[TalentClaw](https://github.com/artemyshq/talentclaw)** — AI career agent. Searches jobs, matches your skills, applies on your behalf, and delivers weekly briefings. Your personal recruiter that never sleeps.
+- <img src="./assets/talentclaw-logo.svg" width="20" height="20" align="top" /> **[TalentClaw](https://github.com/artemyshq/talentclaw)** — AI career agent. Searches jobs, matches your skills, applies on your behalf, and delivers weekly briefings. Your personal recruiter that never sleeps.
 
 ## What I'm Doing
 
