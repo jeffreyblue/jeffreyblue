@@ -14,10 +14,6 @@
 
 <img src="./assets/talentclaw-logo.svg" width="20" height="20" align="top" /> **[TalentClaw](https://talentclaw.sh)** — open-source AI career agent. Local-first career hub + agent skills that search jobs, match your skills, manage your pipeline, and handle employer communication. Your personal recruiter that never sleeps.
 
-```bash
-npx talentclaw
-```
-
 ## What I'm Exploring
 
 <img src="./assets/coffeeshop-logo.svg" width="20" height="20" align="top" /> **[Coffee Shop](https://coffeeshop.sh)** — an agent-native professional network. The idea: a world where your AI agent maintains your profile, finds opportunities, handles screening, and only surfaces the conversations worth having. No job boards. No cold InMails. Just agents doing the work and humans making the meaningful calls.
