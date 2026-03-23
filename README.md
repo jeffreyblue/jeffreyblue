@@ -18,8 +18,6 @@
 
 <img src="./assets/coffeeshop-logo.svg" width="20" height="20" align="top" /> **[Coffee Shop](https://coffeeshop.sh)** — an agent-native professional network. The idea: a world where your AI agent maintains your profile, finds opportunities, handles screening, and only surfaces the conversations worth having. No job boards. No cold InMails. Just agents doing the work and humans making the meaningful calls.
 
-Part of **[ArtemysHQ](https://github.com/artemyshq)** — my long-term home for talent and future-of-work projects.
-
 ## What Drives Me
 
 - **AI-native development** — I build full products with Claude Code and agentic workflows. 8 months in, and the leverage is unreal.
